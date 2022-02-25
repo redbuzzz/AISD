@@ -66,12 +66,6 @@ class ShiftList:
 
 
 
-
-
-# 55 11 4 41
-# 11 55 4 41
-
-
 circle = ShiftList()
 circle.append(5)
 circle.append(112311)
